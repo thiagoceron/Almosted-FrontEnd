@@ -47,4 +47,29 @@ Você pode visualizar o projeto em funcionamento através deste link:
 ---
 
 ## 📂 Estrutura de Arquivos
+/almosted-loja
+├── /assets
+│ └── (suas imagens, logo, ícones, etc.)
+├── /css
+│ └── style.css
+├── /js
+│ └── script.js
+├── index.html
+├── shop.html
+├── produto.html
+├── infos.html
+├── login.html
+├── cadastro.html
+└── README.md
+
+---
+
+## 👨‍💻 Autor
+
+Feito por **[Thiago Ceron de Almeida]**
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/thiago-ceron-de-almeida-955836307/)
+- 💻 [GitHub](https://github.com/thiagoceron)
+
+
 
